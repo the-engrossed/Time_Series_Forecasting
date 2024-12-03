@@ -37,15 +37,16 @@ The dataset contains Month and Passengers
 
 
 ##### df.describe()
-        Passengers
-count	144.000000
-mean	280.298611
-std	    119.966317
-min	    104.000000
-25%	    180.000000
-50%	    265.500000
-75%	    360.500000
-max	    622.000000
+
+                Passengers
+        count	144.000000
+        mean	280.298611
+        std	    119.966317
+        min	    104.000000
+        25%	    180.000000
+        50%	    265.500000
+        75%	    360.500000
+        max	    622.000000
 
 ### Project Workflow
 
