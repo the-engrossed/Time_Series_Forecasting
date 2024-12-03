@@ -25,15 +25,15 @@ Steps involved in building the model -
 
 The dataset contains Month and Passengers 
 
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 144 entries, 0 to 143
-Data columns (total 2 columns):
- #   Column      Non-Null Count  Dtype 
----  ------      --------------  ----- 
- 0   Month       144 non-null    object
- 1   Passengers  144 non-null    int64 
-dtypes: int64(1), object(1)
-memory usage: 2.4+ KB
+        <class 'pandas.core.frame.DataFrame'>
+        RangeIndex: 144 entries, 0 to 143
+        Data columns (total 2 columns):
+        #   Column      Non-Null Count  Dtype 
+        ---  ------      --------------  ----- 
+        0   Month       144 non-null    object
+        1   Passengers  144 non-null    int64 
+        dtypes: int64(1), object(1)
+        memory usage: 2.4+ KB
 
 
 ##### df.describe()
