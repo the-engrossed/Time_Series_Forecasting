@@ -2,11 +2,18 @@
 
 ## Tools Used - Python, ARIMA , Statsmodels
 
+### Requirements
+ 
+        pip install statsmodels
+        
+        pip install seaborn
+        
+
 ### Table of Contents 
 1. Project Objective
 2. Dataset Description
-3. Project Workflow
-4. Predictions
+3. Predictions
+4. Outputs
 
 ### Project Objective
 
@@ -48,5 +55,5 @@ The dataset contains Month and Passengers
         75%	    360.500000
         max	    622.000000
 
-### Project Workflow
+### Predictions
 
